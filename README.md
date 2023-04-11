@@ -9,4 +9,4 @@ Normal kullanıcılar ve aboneler film satın alabilirler.
 Eğer film mevcut değil ise talep edilebilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-![Class Diagram Table]()
+![Class Diagram Table](https://github.com/ulutas/OnlineMovie/blob/main/Screenshot_1.png)
